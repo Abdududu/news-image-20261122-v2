@@ -1,0 +1,1 @@
+{"description":"Sum up 22 November's world news in one image — an illustrated digest, drawn denser","devDependencies":{"playwright-core":"^1.49.1"},"name":"news-image-20261122-v2","private":true,"scripts":{"render":"node scripts/render.mjs","start":"node main.ts"},"type":"module","version":"1.0.0"}
